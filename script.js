@@ -28,4 +28,5 @@ console.log(arrayString);
 
 copiarArrayString.splice(2,2);
 console.log(copiarArrayString);
+console.log(copiarArrayString.length);
 
